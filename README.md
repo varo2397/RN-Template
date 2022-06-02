@@ -1,2 +1,2 @@
 # rn-scaffold
-Scaffolding project for bananacodes mobile app development using react-native
+Scaffolding project for mobile app development using react-native
